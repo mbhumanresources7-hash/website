@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.mbhumanresources.com/sitemap.xml
+
+# Disallow crawling of certain file types
+Disallow: *.css$
+Disallow: *.js$
+Disallow: /vendor/
+Disallow: /css/
+Disallow: /js/
+
+# Allow important directories
+Allow: /img/
+Allow: /
+
+# Crawl-delay (optional - adjust based on server capacity)
+Crawl-delay: 1
