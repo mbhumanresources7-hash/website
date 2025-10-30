@@ -12,21 +12,7 @@ M.B. Human Resources Pvt Ltd specializes in connecting skilled Nepali workers wi
 
 ## 🚀 Quick Start
 
-### View Locally
 
-```bash
-# Open index.html in your browser
-# Or use Live Server extension in VS Code
-```
-
-### Deploy
-
-```bash
-# Push to GitHub
-git add .
-git commit -m "Update content"
-git push origin main
-```
 
 Changes will automatically deploy to the live website via GitHub Pages.
 
